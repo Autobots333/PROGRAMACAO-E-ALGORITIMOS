@@ -1,3 +1,5 @@
+4) Ler dois números inteiros e efetuar os seguintes cálculos: adição, subtração, multiplicação e divisão. Criar função para cada um dos cálculos. Exibir o resultado de todos os cálculos.
+
 #include <iostream>
 int somar( int a,int b){
 	return a+b;
