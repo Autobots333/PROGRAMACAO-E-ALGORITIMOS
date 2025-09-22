@@ -1,3 +1,5 @@
+10) Ler um nome completo de uma pessoa e exibir a quantidade de vogais e consoantes presentes nesse nome. Criar uma função para a verificação das vogais e outra função para a verificação das consoantes.
+
 #include <iostream>
 #include <limits> 
 bool ehVogal(char c) {
