@@ -1,3 +1,5 @@
+7) Ler 5 números e exibir a ordem desses números. Criar uma função que retorne ordem crescente, ordem decrescente ou não ordenado na verificação da ordenação
+
 #include <iostream>
 
 int main() {
