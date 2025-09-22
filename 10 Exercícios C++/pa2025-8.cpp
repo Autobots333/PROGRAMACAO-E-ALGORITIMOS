@@ -1,3 +1,5 @@
+8) Ler o raio de 5 círculos e exibir a soma da área de todos os círculos. Criar uma função para calcular a área de um círculo.
+
 #include <iostream>
 #define PI 3.14
 double area(double raio){
