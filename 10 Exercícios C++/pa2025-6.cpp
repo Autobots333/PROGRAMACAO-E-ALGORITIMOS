@@ -1,3 +1,5 @@
+6) Ler um número e exibir o dia da semana. Criar uma função que determine o dia da semana correspondente ao número.
+
 #include <iostream>
 #include <string>
 int main() {
