@@ -1,3 +1,5 @@
+1) Ler um número inteiro. Exibir a soma dos números ímpares até o número lido. Criar uma função que retorne verdadeiro para números ímpares.
+
 #include <iostream>
 
 int main(int argc, char** argv) {
