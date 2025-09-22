@@ -1,5 +1,6 @@
 Jogo da Forca - Tema: Personagens de Naruto
 
+
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
