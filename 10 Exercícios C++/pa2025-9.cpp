@@ -1,3 +1,5 @@
+9) Ler uma palavra e exibir essa palavra substituindo as vogais por *. Criar uma função para realizar essa substituição.
+
 #include <iostream>
 
 void substituirVogais(char palavra[]) {
