@@ -1,3 +1,5 @@
+5) Ler uma palavra e exibir se a palavra é um palíndromo (lê-se igual de trás para frente). Criar uma função para retornar verdadeiro ou falso na verificação do palíndromo.
+
 #include <iostream>
 #include <string>
 
@@ -20,9 +22,9 @@ int main() {
     }
 
     if (eh == 1) {
-        std::cout << palavra << " � um pal�ndromo!";
+        std::cout << palavra << " é um palíndromo!";
     } else {
-        std::cout << palavra << " n�o � um pal�ndromo.";
+        std::cout << palavra << " não é um palíndromo.";
     }
 
     return 0;
