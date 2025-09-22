@@ -1,3 +1,5 @@
+2) Ler a base e o expoente. Criar uma função para efetuar o cálculo para potência utilizando estrutura de repetição. Exibir o resultado do cálculo.
+
 #include <iostream>
  #include <cmath>
 
