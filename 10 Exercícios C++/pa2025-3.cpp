@@ -1,3 +1,5 @@
+3) Ler o sexo e a altura. Calcular e exibir o peso ideal. Criar uma função para o cálculo quando o sexo for masculino utilizando a fórmula 72,7 x altura - 58 e outra função para o sexo feminino utilizando a fórmula 62,1 x altura - 44,7.
+
 #include <iostream>
 #include <string>
 
